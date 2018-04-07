@@ -194,6 +194,11 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **A Multi-Discriminator CycleGAN for Unsupervised Non-Parallel Speech
 Domain Adaptation**(2018), Ehsan Hosseini-Asl, Yingbo Zhou, Caiming Xiong, Richard Socher [[pdf]](https://arxiv.org/pdf/1804.00522.pdf)
 
+- **Completely Unsupervised Phoneme Recognition by Adversarially Learning
+Mapping Relationships from Audio Embeddings**(2018),Da-Rong Liu, Kuan-Yu Chen, Hung-Yi Lee, Lin-shan Lee [[pdf]](https://arxiv.org/pdf/1804.00316.pdf)
+
+- **ESPNET**(2018) [[pdf]](https://arxiv.org/pdf/1804.00015.pdf)
+
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
