@@ -191,6 +191,9 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Towards Language-Universal End-to-End Speech Recognition**(2017), Suyoun Kim et al. [[pdf]](https://arxiv.org/pdf/1711.02207)
 
+- **A Multi-Discriminator CycleGAN for Unsupervised Non-Parallel Speech
+Domain Adaptation**(2018), Ehsan Hosseini-Asl, Yingbo Zhou, Caiming Xiong, Richard Socher [[pdf]](https://arxiv.org/pdf/1804.00522.pdf)
+
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
